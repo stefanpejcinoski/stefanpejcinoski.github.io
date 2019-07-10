@@ -1296,7 +1296,10 @@ input, select, textarea {
 			line-height: 4.5rem;
 			border: solid 1px #ffffff;
 			border-style: solid;
-			border-radius: 3%
+			border-right-style: hidden;
+			border-left-style: hidden;
+			border-top-style: hidden;
+			
 			
 			
 		}
